@@ -7,7 +7,7 @@
 
 ![Profile views](https://gpvc.arturio.dev/rohan-sorkar) 
 
-I'am a professional full-stack web application developer from Bangladesh(![Bangladesh](https://images.emojiterra.com/twitter/v14.0/512px/1f1e7-1f1e9.png)).. who develop attractive, secure and quality websites and web apps using latest tools and technologies, version controling, agile project management, automated testing, database integration. And i'am in continious state of learning and improvement, enhancing my skills daily to adapt latest technologies as soon as possible. 
+I'am a professional full-stack web application developer from Bangladesh. who develop attractive, secure and quality websites and web apps using latest tools and technologies, version controling, agile project management, automated testing, database integration. And i'am in continious state of learning and improvement, enhancing my skills daily to adapt the latest technologies as soon as possible. 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rohan-sorkar)](https://github.com/anuraghazra/github-readme-stats)
 
